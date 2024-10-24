@@ -898,8 +898,10 @@ section,
 }
 
 .hero .animated {
-  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;  
 }
+
+
 
 @media (max-width: 640px) {
   .hero h1 {
@@ -1214,11 +1216,10 @@ section,
 .mydiv{  
   border: 1px solid gray;
   text-align: center;
-  padding:8px;
+  padding:10px 20px 10px 20px;
   border-radius: 20px;
-  font-weight: bold; 
-  width: 30%;
-  margin: 7px;
+  font-weight: bold;   
+  margin: 7px;    
 }
 
 .viewSite:link, .viewSite:visited {
