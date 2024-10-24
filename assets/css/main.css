@@ -1216,7 +1216,7 @@ section,
 .mydiv{  
   border: 1px solid gray;
   text-align: center;
-  padding:10px 20px 10px 20px;
+  padding:10px 25px 10px 25px;
   border-radius: 20px;
   font-weight: bold;   
   margin: 7px;    
@@ -1235,9 +1235,15 @@ section,
   background-color: rgb(2, 131, 41);
 }
 
+
 .light-background-1{
   background-color: #f1f2f6;
 }
+
+.light-background-2{
+  background-color: #dfe6e9;
+}
+
 
 
 .myrow{
